@@ -23,7 +23,7 @@ Soy desarrollador Full-Stack con más de 2 años de experiencia en creación de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="Tailwind CSS Logo" />
-  <img src="[https://www.surveyjs.io/Content/Images/logo.jpg](https://surveyjs.io/favicon.ico)" width="30" alt="SurveyJS Logo" />
+  <img src="https://surveyjs.io/favicon.ico" width="30" alt="SurveyJS Logo" />
 </p>
 
 ### Backend
