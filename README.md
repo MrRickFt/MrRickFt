@@ -18,10 +18,12 @@ Soy desarrollador Full-Stack con más de 2 años de experiencia en creación de 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SurveyJS](https://img.shields.io/badge/SurveyJS-3F3D56?style=flat&logo=surveyjs&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -40,44 +42,6 @@ Soy desarrollador Full-Stack con más de 2 años de experiencia en creación de 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-## 📈 Estadísticas de GitHub
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
-
-## 🏆 Experiencia y Proyectos Destacados
-
-### Hola Mundo Dev's House
-**Líder de Desarrollo**  
-*marzo de 2024 - Presente*
-
-### remoti
-**Desarrollador FullStack Angular - NodeJs**  
-*noviembre de 2023 - Presente*
-
-### Profesional Independiente
-**Desarrollador de Software**  
-*febrero de 2023 - diciembre de 2023*  
-Desarrollé un bot de trading con MQL5 y .NET, y automatizaciones web con Python y Selenium.
-
-### Arqueosub Consulting S.A
-**Desarrollador Web**  
-*diciembre de 2022 - febrero de 2023*  
-Mejoré la interfaz gráfica y optimicé canales de contacto.
-
-### BICTIA
-**Desarrollador de Aplicaciones Web**  
-*septiembre de 2021 - marzo de 2022*  
-Lideré proyectos utilizando Angular, NodeJS, MongoDB, y más.
-
-### Yuma Concesionaria S.A.
-**Desarrollador de Software**  
-*agosto de 2020 - marzo de 2021*  
-Optimicé el área de inventario y registro de procesos.
-
-### Proyectos Destacados
-1. [Proyecto CRM](https://github.com/tu_usuario/proyecto1) - CRM enfocado en el control de tareas y rendimiento.
-2. [Sistema de Ligas de Fútbol](https://github.com/tu_usuario/proyecto2) - Simulación de ligas de fútbol con API REST y MongoDB.
-3. [Bot de Trading](https://github.com/tu_usuario/proyecto3) - Bot de trading automatizado con MQL5 y .NET.
 
 ## 🎓 Certificados
 - **Devops Developer** - International Devops Certification Academy
