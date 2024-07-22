@@ -15,18 +15,20 @@ Soy desarrollador Full-Stack con más de 2 años de experiencia en creación de 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### Bases de Datos
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-02569B?style=flat&logo=api-rest&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-007ACC?style=flat&logo=socket.io&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -46,11 +48,11 @@ Soy desarrollador Full-Stack con más de 2 años de experiencia en creación de 
 
 ### Hola Mundo Dev's House
 **Líder de Desarrollo**  
-*marzo de 2024 - Present*
+*marzo de 2024 - Presente*
 
 ### remoti
 **Desarrollador FullStack Angular - NodeJs**  
-*noviembre de 2023 - Present*
+*noviembre de 2023 - Presente*
 
 ### Profesional Independiente
 **Desarrollador de Software**  
@@ -77,10 +79,13 @@ Optimicé el área de inventario y registro de procesos.
 2. [Sistema de Ligas de Fútbol](https://github.com/tu_usuario/proyecto2) - Simulación de ligas de fútbol con API REST y MongoDB.
 3. [Bot de Trading](https://github.com/tu_usuario/proyecto3) - Bot de trading automatizado con MQL5 y .NET.
 
-## 🎓 Educación
-- **Ingeniero de Sistemas** - Fundación Universitaria del Area Andina
-- **Desarrollador Web** - Bictia
-- **Diplomado en Lenguaje de Programación Front-End y Back-End** - Corporación Colsubsidio Educación Tecnológica
+## 🎓 Certificados
+- **Devops Developer** - International Devops Certification Academy
+- **Scrum Master Accredited Certification** - International Scrum Institute
+- **Curso Profesional de Git y GitHub** - Platzi
+- **Curso Scrum Master** - Platzi
+- **Scrum Foundation Professional Certificate** - Certiprof
+- **Cloud Computing** - Google Activate
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/jorge-ricardo-viloria)
