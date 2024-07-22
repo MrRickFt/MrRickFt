@@ -1,12 +1,5 @@
 # Hello! I'm Jorge Andrés Ricardo Viloria 👋
 
-<a href="https://www.linkedin.com/in/jorge-ricardo-viloria/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:jandricardov@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-jandricardov@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="Email">
-</a>
-
 I am a Full-Stack developer with over 2 years of experience in creating web and desktop solutions using various technologies. Currently, I lead project development at Hola Mundo Dev's House, applying agile methodologies to deliver high-quality products.
 
 ## 🌟 Summary
@@ -43,7 +36,6 @@ I am a Full-Stack developer with over 2 years of experience in creating web and 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP Logo" />
 </p>
 
